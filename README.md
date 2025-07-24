@@ -8,7 +8,8 @@ The project focuses on uncovering patterns related to customer demographics, eng
 
 <img width="752" height="609" alt="image" src="https://github.com/user-attachments/assets/034efa41-9684-4b76-8f12-856c8458cd71" />
 
-
+View the Live Interactive Dashboard:
+Customer Demographics Dashboard on Tableau Public
 
 **View the Live Interactive Dashboard:**
 View the Live Interactive Dashboard:
