@@ -55,9 +55,7 @@ This suggests the campaign may be reaching or resonating more with males, or tha
 
 This insight is crucial for campaign targeting, suggesting that female customers, though smaller in number, represent a higher-value segment in terms of purchasing power.
 
-**Interactivity:** The dashboard is designed to be interactive, allowing users to explore different customer segments and potentially filter by 
-
-various demographic and campaign attributes to uncover specific insights.
+**Interactivity:** The dashboard is designed to be interactive, allowing users to explore different customer segments and potentially filter by various demographic and campaign attributes to uncover specific insights.
 
 
 **Tools Used**
