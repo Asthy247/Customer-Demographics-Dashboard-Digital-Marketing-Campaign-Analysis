@@ -11,7 +11,8 @@ The project focuses on uncovering patterns related to customer demographics, eng
 
 
 **View the Live Interactive Dashboard:**
-[Customer Demographics Dashboard on Tableau Public](https://public.tableau.com/app/profile/ashley.james8525/viz/MarketingDashboardDemographicsConversions_17218329623690/CustomerDemographicsDashboard)
+View the Live Interactive Dashboard:
+Customer Demographics Dashboard on Tableau Public
 
 # Project Goal
 To provide a clear, interactive visualization of customer demographics and their relationship to digital marketing campaign performance, enabling deeper insights into audience behavior and campaign effectiveness.
